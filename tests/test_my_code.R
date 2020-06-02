@@ -1,6 +1,7 @@
 source("../my_code.R", chdir = TRUE)
 # install.packages('testthat')
 library(testthat)
+library(devtools)
 
 test_that("single number", {
   expect_equal(increment(-1), 0)

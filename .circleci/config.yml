@@ -8,7 +8,12 @@ jobs:
       - checkout
       - run:
           command: |
+            R -e "install.packages('testthat')"
+      - run:
+          command: |
             R -e "testthat::test_dir('tests')"
       - store_artifacts:
           path: man/
           destination: man
+
+
