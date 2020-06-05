@@ -4,5 +4,5 @@
 # 2. Call: testthat::test_dir('tests') within RStudio or R
 
 increment <- function(value) {
-  value + 3
+  value + 4
 }
