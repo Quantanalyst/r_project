@@ -6,3 +6,5 @@
 increment <- function(value) {
   value + 1
 }
+
+# it is a comment
