@@ -7,4 +7,4 @@ increment <- function(value) {
   value + 1
 }
 
-# This is a slight change. 
+#  Make a slight change
