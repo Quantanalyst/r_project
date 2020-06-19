@@ -6,5 +6,3 @@
 increment <- function(value) {
   value + 1
 }
-
-#  Make a slight change
