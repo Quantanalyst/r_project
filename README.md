@@ -25,4 +25,5 @@ Finally, take a look at my CircleCI account and the integration testing result o
 
 ### References: 
 
-- Continuous integration for your private R projects with CircleCI (link = https://appsilon.com/continuous-integration-for-your-private-r-projects-with-circleci/)
+- Continuous integration for your private R projects with CircleCI [link](https://appsilon.com/continuous-integration-for-your-private-r-projects-with-circleci/)
+
